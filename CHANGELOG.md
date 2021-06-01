@@ -6,7 +6,7 @@
 
 ## v0.1.8 19.01.2021
 
-- Restrict RSA singing to 512 bytes or less
+- Restrict RSA signing to 512 bytes or less
 - a special error message when a serialization value contains URL-usafe Base64.
   Only URL-usafe Base64 is permitted.
 
